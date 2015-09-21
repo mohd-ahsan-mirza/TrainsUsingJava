@@ -1,6 +1,3 @@
-- First of all I would like to thank you for giving me the opportunity to join ThoughtWorks and also for this assignment.I
-  throughly enjoyed doing my chosen problem.
-
 - The design of the overall train problem program is simple and yet is complex at the same time. It is simple because I have separted
   all the different elements involved in seperate classes and is complex because of the whole process involved behind some of the 
   essential action methods and interactions between different methods and classes.
